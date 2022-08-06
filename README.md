@@ -17,9 +17,9 @@ O site tem no total 1 página, sendo ela
 
 ## 🎯 Etapas do projeto
 
-✔️ Separando imagens do projeto </br>
-✔️ Colocando a mão na código e desenvolvendo parte por parte do projeto até sua finalização </br>
-✔️ Responsivizando o projeto
+✔️ Separando imagens do projeto. </br>
+✔️ Colocando a mão na código e desenvolvendo parte por parte do projeto até sua finalização. </br>
+✔️ Responsivizando o projeto.
 
 ## 🚀 Tecnologias
 * <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">HTML</a>
