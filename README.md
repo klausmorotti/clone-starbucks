@@ -1,9 +1,19 @@
-# CLONE STARBUCKS
+<h1 align="center">CLONE STARBUCKS</h1>
+
+<img src="assets/images/starbucks-gif.gif" alt="Video Projeto" width="100%" height="500">
+
+> 🔎 Um clone da página da renomada empresa no ramo de bebidas Starbucks. <br>
+🗔 Confira a aplicação: https://klausmorotti.github.io/clone-starbucks/ <br>
 
 ## 📄 Explicação
 
-Um clone da página da renomada empresa no ramo de bebidas Starbucks.
 Desenvolvido no início de meus estudos de programação para praticar meus conhecimentos de HTML e CSS utilizando GRID layout.
+
+## 📁 Páginas
+
+O site tem no total 1 página, sendo ela
+
+- **Página principal:** A página principal que exibe todo o conteúdo.
 
 ## 🎯 Etapas do projeto
 
